@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Toluene Diisocyanate TDI",
+      "price": "Rs 295/Kg",
+      "image": "./image/2.png",
+      "details": "This is a description of Toluene Diisocyanate TDI.",
+      "brand": "WANHUA"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/2.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/2.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/2.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./img/7.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./img/7.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./img/7.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./img/7.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 2,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./img/7.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    
+    {
+      "id": 3,
+      "name": "Polyol 5000 MW",
+      "price": "Rs 400/Kg",
+      "image": "./img/8.png",
+      "details": "This is a description of Polyol 5000 MW.",
+      "brand": "COVESTRO"
+    }
+  ]
+  

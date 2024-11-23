@@ -1,0 +1,67 @@
+
+
+/* Intro section */
+.intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px 50px;
+    background-color:white;
+}
+
+.intro-text {
+    max-width: 600px;
+}
+
+.intro-text h1, .intro-text h2 {
+    font-size: 3rem;
+    color: #e91e63;
+}
+
+.intro-text p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.hire-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e91e63;
+    color: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.intro-image img {
+    max-width: 500%;
+    max-height: 200%;
+    border-radius: 8px;
+}
+
+/* Footer Styling */
+
+
+/* Responsive Styling */
+@media (max-width: 768px) {
+    .intro {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .intro-text {
+        margin-bottom: 30px;
+    }
+
+    header nav ul {
+        flex-direction: column;
+    }
+
+    header nav ul li {
+        margin: 10px 0;
+    }
+
+    .intro-image img {
+        max-width: 100%;
+    }
+}
