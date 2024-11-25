@@ -197,11 +197,13 @@
   .hero-content {
     flex-direction: column;
     margin-top: 200px;
+    margin: 70px;
     text-align: center;
   }
 
   .hero-left, .hero-right {
     max-width: 100%;
+    padding-bottom: 20px;
   }
 
   .animated-text {
