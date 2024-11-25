@@ -102,123 +102,144 @@
        
     
         <div class="dashboard">
+          <!-- Hamburger Menu -->
+          <div class="hamburger-menu" id="hamburger-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+      
           <!-- Sidebar -->
-          <div class="sidebar">
-            <h2>About Us</h2>
+          <div class="sidebar" id="sidebar">
+            <h2>Dashboard</h2>
             <ul>
-              <li><a href="#corporate-video">Corporate Video</a></li>
-              <li><a href="#testimonial">Testimonial</a></li>
-              <li><a href="#about-company">About The Company</a></li>
-              <li><a href="#portfolio">Products & Services Portfolio</a></li>
-              <li><a href="#enquiry-form">Distributor Enquiry Form</a></li>
-              <li><a href="#brochure">Download Brochure</a></li>
+              <li><a href="#" data-target="corporate-video" class="active">📹 Corporate Video</a></li>
+              <li><a href="#" data-target="testimonial">💬 Testimonial</a></li>
+              <li><a href="#" data-target="about-company">🏢 About The Company</a></li>
+              <li><a href="#" data-target="portfolio">📦 Products & Services Portfolio</a></li>
+              <li><a href="#" data-target="enquiry-form">📝 Distributor Enquiry Form</a></li>
+              <li><a href="#" data-target="brochure">📄 Download Brochure</a></li>
             </ul>
           </div>
       
           <!-- Main Content -->
           <div class="main-content">
-            <section id="corporate-video">
+            <div id="corporate-video" class="content-section active">
               <h1>Corporate Video</h1>
-              <p>Explore our corporate vision and achievements.</p>
-            </section>
-            <section id="testimonial">
+              <p>Welcome to our corporate video section. Watch and learn more about our company!</p>
+            </div>
+            <div id="testimonial" class="content-section">
               <h1>Testimonial</h1>
-              <p>What our clients say about us.</p>
-            </section>
-            <section id="about-company">
+              <p>Here are some testimonials from our satisfied clients.</p>
+            </div>
+            <div id="about-company" class="content-section">
               <h1>About The Company</h1>
-              <p>
-                Established as a Sole Proprietorship firm in the year 2015, we are a leading organization specializing in...
-              </p>
-            </section>
-            <section id="portfolio">
-              <h1>Products & Services Portfolio</h1>
-              <p>Discover our range of quality products and services.</p>
-            </section>
-            <section id="enquiry-form">
-              <h1>Distributor Enquiry Form</h1>
-              <p>Fill out the form to become a distributor.</p>
-            </section>
-            <section id="brochure">
+              <p>Learn more about our company's history, mission, and values.</p>
+            </div>
+            <div id="portfolio" class="content-section">
+             
+           
+            </div>
+
+
+
+            
+              <section class="contact-section" id="enquiry-form">
+                <div class="contact-container">
+                  <!-- Left Section: Contact Information -->
+                  <div class="contact-info">
+                    <h2>Contact Us</h2>
+                    <div class="info-item">
+                      <span class="icon">👤</span>
+                      <div>
+                        <p class="label">Contact Person</p>
+                        <p class="value">Shiv Singh | Owner</p>
+                      </div>
+                    </div>
+                    <div class="info-item">
+                      <span class="icon">📍</span>
+                      <div>
+                        <p class="label">Address</p>
+                        <p class="value">
+                          Home Wash Kalpana Treders<br>
+                          Kalpana Traders, C-77, Sec-63A, Noida, 201307, Uttar Pradesh, India
+                        </p>
+                        <a href=""class="directions-link">Get Directions</a>
+                      </div>
+                    </div>
+                    <div class="info-item">
+                      <span class="icon">📞</span>
+                      <div>
+                        <p class="label">Contact Number</p>
+                       <p class="value"> <a href="tel:9350005886">Call 9350005886</a></p>
+      
+                      </div>
+                    </div>
+                    <div class="social-links">
+                      <p>Share us on</p>
+                      <a href="#" aria-label="Facebook">📘</a>
+                      <a href="#" aria-label="Twitter">🐦</a>
+                      <a href="#" aria-label="LinkedIn">🔗</a>
+                    </div>
+                  </div>
+            
+                  <!-- Right Section: Contact Form -->
+                  <div class="contact-form">
+                    <h2>Get in Touch</h2>
+                    <form>
+                      <div class="form-group">
+                        <label for="mobile">Your Mobile Number</label>
+                        <div class="mobile-input">
+                          <span class="country-code">+91</span>
+                          <input type="tel" id="mobile" placeholder="Enter your number" required>
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="name">Your Name</label>
+                        <input type="text" id="name" placeholder="Enter your name" required>
+                      </div>
+                      <div class="form-group">
+                        <label for="message">Your Message</label>
+                        <textarea id="message" placeholder="Describe your requirement in detail" required></textarea>
+                      </div>
+                      <button type="submit" class="submit-btn">Contact Now</button>
+                    </form>
+                  </div>
+                </div>
+              </section>
+          
+            <div id="brochure" class="content-section">
               <h1>Download Brochure</h1>
-              <p>Access our detailed brochure for more information.</p>
-            </section>
+              <p>Download our company brochure for more details.</p>
+            </div>
           </div>
         </div>
 
 
 
 
-        <section class="contact-section">
-          <div class="contact-container">
-            <!-- Left Section: Contact Information -->
-            <div class="contact-info">
-              <h2>Contact Us</h2>
-              <div class="info-item">
-                <span class="icon">👤</span>
-                <div>
-                  <p class="label">Contact Person</p>
-                  <p class="value">Shiv Singh | Owner</p>
-                </div>
-              </div>
-              <div class="info-item">
-                <span class="icon">📍</span>
-                <div>
-                  <p class="label">Address</p>
-                  <p class="value">
-                    Home Wash Kalpana Treders<br>
-                    Kalpana Traders, C-77, Sec-63A, Noida, 201307, Uttar Pradesh, India
-                  </p>
-                  <a href=""class="directions-link">Get Directions</a>
-                </div>
-              </div>
-              <div class="info-item">
-                <span class="icon">📞</span>
-                <div>
-                  <p class="label">Contact Number</p>
-                 <p class="value"> <a href="tel:9350005886">Call 9350005886</a></p>
 
-                </div>
-              </div>
-              <div class="social-links">
-                <p>Share us on</p>
-                <a href="#" aria-label="Facebook">📘</a>
-                <a href="#" aria-label="Twitter">🐦</a>
-                <a href="#" aria-label="LinkedIn">🔗</a>
-              </div>
-            </div>
-      
-            <!-- Right Section: Contact Form -->
-            <div class="contact-form">
-              <h2>Get in Touch</h2>
-              <form>
-                <div class="form-group">
-                  <label for="mobile">Your Mobile Number</label>
-                  <div class="mobile-input">
-                    <span class="country-code">+91</span>
-                    <input type="tel" id="mobile" placeholder="Enter your number" required>
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label for="name">Your Name</label>
-                  <input type="text" id="name" placeholder="Enter your name" required>
-                </div>
-                <div class="form-group">
-                  <label for="message">Your Message</label>
-                  <textarea id="message" placeholder="Describe your requirement in detail" required></textarea>
-                </div>
-                <button type="submit" class="submit-btn">Contact Now</button>
-              </form>
-            </div>
-          </div>
-        </section>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
        
 
+       
+        
 
 
-
+       
 
 
           <h1>Ratings & Reviews</h1>
@@ -321,7 +342,7 @@
               <p><em>Good value for money!</em></p>
             </div>
           </div>
-        </div> -->
+        </div> 
       
       
 
