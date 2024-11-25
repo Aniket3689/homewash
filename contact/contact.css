@@ -14,7 +14,7 @@ body {
     background-color: #fff;
   }
   
-  .contact-container {
+  .contact-containers {
     display: flex;
     max-width: 1100px;
     width: 100%;
