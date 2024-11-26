@@ -16,69 +16,37 @@
       "brand": "BASF"
     },
     {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./image/2.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./image/2.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./img/7.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./img/7.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./img/7.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./img/7.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./img/7.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    
-    {
       "id": 3,
-      "name": "Polyol 5000 MW",
-      "price": "Rs 400/Kg",
-      "image": "./img/8.png",
-      "details": "This is a description of Polyol 5000 MW.",
-      "brand": "COVESTRO"
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/Roomfreshner.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 4,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/whiteFloorclener.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 5,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/ExteaPower.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
+    },
+    {
+      "id": 6,
+      "name": "Polyol 3000 MW",
+      "price": "Rs 350/Kg",
+      "image": "./image/ExtraPower.png",
+      "details": "This is a description of Polyol 3000 MW.",
+      "brand": "BASF"
     }
+    
   ]
   
