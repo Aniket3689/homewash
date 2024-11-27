@@ -35,7 +35,7 @@
       "id": 5,
       "name": "Polyol 3000 MW",
       "price": "Rs 350/Kg",
-      "image": "./image/ExteaPower.png",
+      "image": "./image/tolity.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "name": "Polyol 3000 MW",
       "price": "Rs 350/Kg",
-      "image": "./image/ExtraPower.png",
+      "image": "./image/cleaning.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     }
