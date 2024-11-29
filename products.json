@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Toluene Diisocyanate TDI",
       "price": "Rs 295/Kg",
-      "image": "./image/flooerCleaner.png",
+      "image": "./image/floorCleaner.png",
       "details": "This is a description of Toluene Diisocyanate TDI.",
       "brand": "WANHUA"
     },
@@ -11,7 +11,7 @@
       "id": 2,
       "name": "Polyol 3000 MW",
       "price": "Rs 350/Kg",
-      "image": "./image/glassClieaner.png",
+      "image": "./image/glasscleaner.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "name": "Polyol 3000 MW",
       "price": "Rs 350/Kg",
-      "image": "./image/whiteFloorclener.png",
+      "image": "./image/glasscleaner.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
@@ -43,7 +43,7 @@
       "id": 6,
       "name": "Polyol 3000 MW",
       "price": "Rs 350/Kg",
-      "image": "./image/cleaning.png",
+      "image": "./image/dishwash.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     }
