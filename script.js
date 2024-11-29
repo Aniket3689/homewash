@@ -1,7 +1,7 @@
 
   const sliderImages = [
-    { src: "./image/homw wash.jpg", description: "High-quality cleaning products for your home." },
-    { src: "./image/2.png", description: "Efficient and eco-friendly solutions." },
+    { src: "./image/Heroimage.png", description: "High-quality cleaning products for your home." },
+    { src: "./image/homw wash.jpg", description: "Efficient and eco-friendly solutions." },
   ];
   
   let currentIndex = 0;
