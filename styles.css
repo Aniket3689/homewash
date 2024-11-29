@@ -366,6 +366,7 @@
 @media (max-width: 600px) {
   .product {
     width: 100%;
+    height: 100%;
   }
 }
 
