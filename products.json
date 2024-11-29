@@ -9,40 +9,40 @@
     },
     {
       "id": 2,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
+      "name": "Glass Cleaner",
+      "price": "Rs 250/5Kg",
       "image": "./image/glasscleaner.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
     {
       "id": 3,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
+      "name": "Room Fresher",
+      "price": "Rs 799/5Kg",
       "image": "./image/Roomfreshner.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
     {
       "id": 4,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
-      "image": "./image/glasscleaner.png",
+      "name": "White Flooer Cleaner",
+      "price": "Rs 199/5Kg",
+      "image": "./image/whiteFloorclener.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
     {
       "id": 5,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
+      "name": "Toilet Cleaner",
+      "price": "Rs 250/5Kg",
       "image": "./image/tolity.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
     },
     {
       "id": 6,
-      "name": "Polyol 3000 MW",
-      "price": "Rs 350/Kg",
+      "name": "Dishwash",
+      "price": "Rs 299/5Kg",
       "image": "./image/dishwash.png",
       "details": "This is a description of Polyol 3000 MW.",
       "brand": "BASF"
