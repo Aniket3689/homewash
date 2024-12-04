@@ -6,7 +6,7 @@
   }
   
   body {
-    background-color: #ffffff;
+    background-color: #f9ca24;
     font-size: 16px;
   }
   
@@ -88,12 +88,13 @@
     justify-content: space-between;
     align-items: center;
     padding: 10px 20px;
-    background-color: #f8f9fa;
+    background-color: #f9ca24;
   }
   
   .nav-links {
     list-style: none;
     display: flex;
+    background-color: #f9ca24;
   }
   
   .nav-links li {
@@ -208,7 +209,7 @@
       flex-direction: column;
       width: 100%;
       padding: 10px 0;
-      background-color: #f8f9fa;
+      background-color: #f9ca24;
     }
   
     .nav-links.active {
