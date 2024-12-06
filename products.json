@@ -1,52 +1,50 @@
 [
-    {
-      "id": 1,
-      "name": "Toluene Diisocyanate TDI",
-      "price": "Rs 295/Kg",
-      "image": "./image/floorCleaner.png",
-      "details": "This is a description of Toluene Diisocyanate TDI.",
-      "brand": "WANHUA"
-    },
-    {
-      "id": 2,
-      "name": "Glass Cleaner",
-      "price": "Rs 250/5Kg",
-      "image": "./image/glasscleaner.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 3,
-      "name": "Room Fresher",
-      "price": "Rs 799/5Kg",
-      "image": "./image/Roomfreshner.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 4,
-      "name": "White Flooer Cleaner",
-      "price": "Rs 199/5Kg",
-      "image": "./image/whiteFloorclener.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 5,
-      "name": "Toilet Cleaner",
-      "price": "Rs 250/5Kg",
-      "image": "./image/tolity.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    },
-    {
-      "id": 6,
-      "name": "Dishwash",
-      "price": "Rs 299/5Kg",
-      "image": "./image/dishwash.png",
-      "details": "This is a description of Polyol 3000 MW.",
-      "brand": "BASF"
-    }
-    
-  ]
-  
+  {
+    "id": 1,
+    "name": "Flooer Cleaner",
+    "price": "Rs 295/Kg",
+    "image": "./image/floorCleaner.png",
+    "details": "Experience spotless floors with our powerful floor cleaner. Made with natural surfactants, antibacterial agents, lemon extract, and essential oils, it removes tough stains, kills germs, and leaves a refreshing fragrance. Safe for all surfaces and eco-friendly.",
+    "brand": "Home Wash"
+  },
+  {
+    "id": 2,
+    "name": "Glass Cleaner",
+    "price": "Rs 250/5Kg",
+    "image": "./image/glasscleaner.png",
+    "details": "Achieve crystal-clear shine with our advanced glass cleaner. Its streak-free formula removes dirt, smudges, and fingerprints effortlessly, leaving your glass surfaces sparkling and spotless. Perfect for windows, mirrors, and all glass surfaces.",
+    "brand": "Home Wash"
+  },
+  {
+    "id": 3,
+    "name": "Room Fresher",
+    "price": "Rs 799/5Kg",
+    "image": "./image/Roomfreshner.png",
+    "details": "Transform your living spaces with our room freshener. Crafted with premium fragrances, it eliminates unpleasant odors and fills your home with a long-lasting, refreshing aroma. Perfect for bedrooms, living rooms, and offices, creating a welcoming environment..",
+    "brand": "Home Wash"
+  },
+  {
+    "id": 4,
+    "name": "White Flooer Cleaner",
+    "price": "Rs 199/5Kg",
+    "image": "./image/whiteFloorclener.png",
+    "details": "Brighten and sanitize your floors with our White Floor Cleaner. Its advanced formula removes tough stains, kills 99.9% of germs, and leaves a soothing fresh fragrance. Ideal for tiles, marble, and all hard surfaces for a sparkling clean finish",
+    "brand": "Home Wash"
+  },
+  {
+    "id": 5,
+    "name": "Toilet Cleaner",
+    "price": "Rs 250/5Kg",
+    "image": "./image/tolity.png",
+    "details": "Keep your toilet spotless and hygienic with our powerful Toilet Cleaner. Its thick formula removes tough stains, eliminates germs, and fights bad odors, leaving your toilet sparkling clean with a refreshing fragrance. Safe for daily use..",
+    "brand": "Home Wash"
+  },
+  {
+    "id": 6,
+    "name": "Dishwash",
+    "price": "Rs 299/5Kg",
+    "image": "./image/dishwash.png",
+    "details": "Cut through grease and tough stains effortlessly with our Dishwash Liquid. Enriched with natural lemon extracts, it ensures sparkling clean utensils, removes odors, and is gentle on your hands. Perfect for all types of cookware and dishes.",
+    "brand": "Toilet Cleaner"
+  }
+]

@@ -2,7 +2,7 @@
   const sliderImages = [
     { src: "./image/Roomfreshner1.png", description: "Efficient and eco-friendly solutions." },
 
-    { src: "./image/Heroimage.png", description: "High-quality cleaning products for your home." },
+    { src: "./image/room fresher.jpg", description: "High-quality cleaning products for your home." },
     { src: "./image/homw wash.jpg", description: "Efficient and eco-friendly solutions." },
   ];
   
