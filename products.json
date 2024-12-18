@@ -18,14 +18,14 @@
   {
     "id": 3,
     "name": "Room Fresher",
-    "price": "Rs 799/5Kg",
+    "price": "Rs 699/5Kg",
     "image": "./image/Roomfreshner.png",
     "details": "Transform your living spaces with our room freshener. Crafted with premium fragrances, it eliminates unpleasant odors and fills your home with a long-lasting, refreshing aroma. Perfect for bedrooms, living rooms, and offices, creating a welcoming environment..",
     "brand": "Home Wash"
   },
   {
     "id": 4,
-    "name": "White Flooer Cleaner",
+    "name": "White Floor Cleaner",
     "price": "Rs 199/5Kg",
     "image": "./image/whiteFloorclener.png",
     "details": "Brighten and sanitize your floors with our White Floor Cleaner. Its advanced formula removes tough stains, kills 99.9% of germs, and leaves a soothing fresh fragrance. Ideal for tiles, marble, and all hard surfaces for a sparkling clean finish",
